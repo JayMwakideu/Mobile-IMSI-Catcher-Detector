@@ -62,10 +62,18 @@ Security Organisations or local police regularly deploy IMSI-Catchers hidden in 
 
 ### Support
 
-Although our app is fully Open Source, developing it is a lot of work and done by privacy enthusiasts during their free time. If you're a developer yourself, we welcome and credit your [pull requests](https://help.github.com/articles/using-pull-requests/)! To keep developers in a great mood and support development, please consider making a [donation](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Donations). It will be split into pieces and directly sent to developers who solved the backed Issue.
+If you like my work, consider buying me a coffee:
+
+[![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/mwakideu)
 
 ---
 
-### License
+## License
+
+| Component | Licensing |
+|-----------|-----------|
+| | GNU General Public License v2.0 |
+
+## Contributors
 
 
