@@ -36,20 +36,6 @@ AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 
 ---
 
-### Index
-
-* [What it does](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector#what-it-does)
-* [Why use it](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector#why-use-it)
-* [**Contributing**](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/blob/development/.github/CONTRIBUTING.md)
-* [Bug Tracker](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/blob/development/.github/CONTRIBUTING.md#debugging)
-* [Warnings](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector#warnings)
-* [Research](https://spideroak.com/browse/share/AIMSICD/GitHub)
-* [Support](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector#support)
-* [Contact](https://github.com/orgs/CellularPrivacy/people)
-* [Wiki](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki)
-* [FAQ](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/FAQ)
-
----
 
 [![IMSI-Catchers](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catchers.png)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki)
 
