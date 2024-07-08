@@ -43,13 +43,13 @@ AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 
 `AIMSICD` attempts to detect IMSI-Catchers through [detection methods](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/230) such as these:
     
-* Check [Tower Information Consistency](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/253)
-* Check [LAC/Cell ID Consistency](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/91)
-* Check [Neighboring Cell Info](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/264)
-* Prevent [silent app installations](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/151)
-* Monitor [Signal Strength](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/97)
-* Detect [silent SMS](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/glossary-of-terms#silent-sms)
-* Detect [FemtoCells](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/6)
+* Check [Tower Information Consistency]
+* Check [LAC/Cell ID Consistency]
+* Check [Neighboring Cell Info]
+* Prevent [silent app installations]
+* Monitor [Signal Strength]
+* Detect [silent SMS]
+* Detect [FemtoCells]
 
 Make sure to see our [app goals](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Development-Status#application-goals) and [development status](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Development-Status) as well as [technical overview](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Technical-Overview).
 
