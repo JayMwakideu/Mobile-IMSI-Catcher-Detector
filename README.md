@@ -32,10 +32,6 @@ AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 
 </p>
 
----
-
-
-[![IMSI-Catchers](https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/DOCUMENTATION/IMSI-Catchers/IMSI-Catchers.png)](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki)
 
 ### What it does
 
