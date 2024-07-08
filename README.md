@@ -27,11 +27,9 @@ AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 ---
 
 <p align="center">
-  <a target="_blank" href="http://aimsicd.store.aptoide.com/"><img src="https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/external/Aptoide.png"></a>
-  <a target="_blank" href="https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/releases"><img src="https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/external/GitHub.png"></a>
-  <a target="_blank" href="https://f-droid.org/repository/browse/?fdid=com.SecUpwN.AIMSICD"><img src="https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/external/F-Droid.png"></a>
-  <a target="_blank" href="https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/FAQ#q-why-wont-you-upload-your-app-to-the-google-play-store"><img src="https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/external/NoGooglePlay.png"></a>
-  <a target="_blank" href="https://twitter.com/AIMSICD"><img src="https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/external/Twitter.png"></a>
+
+  <a target="_blank" href="https://github.com/CellularPrivacy/Mobile-IMSI-Catcher-Detector/releases"><img src="https://spideroak.com/share/IFEU2U2JINCA/GitHub/home/SecUpwN/SpiderOak/MISC/external/GitHub.png"></a>
+
 </p>
 
 ---
