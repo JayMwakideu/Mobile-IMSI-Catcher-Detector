@@ -41,7 +41,7 @@ AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 
 ### What it does
 
-`AIMSICD` attempts to detect IMSI-Catchers through [detection methods](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/issues/230) such as these:
+`AIMSICD` attempts to detect IMSI-Catchers through [detection methods] such as these:
     
 * Check [Tower Information Consistency]
 * Check [LAC/Cell ID Consistency]
@@ -51,13 +51,12 @@ AIMSICD • Fight IMSI-Catcher, StingRay and silent SMS!
 * Detect [silent SMS]
 * Detect [FemtoCells]
 
-Make sure to see our [app goals](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Development-Status#application-goals) and [development status](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Development-Status) as well as [technical overview](https://github.com/CellularPrivacy/Android-IMSI-Catcher-Detector/wiki/Technical-Overview).
 
 ---
 
 ### Why use it
 
-The FBI or local police regularly deploys IMSI-Catchers hidden in vehicles at protests to obtain a record of everyone who attended with a cell phone (leave your phones at home by all means if you really have to attend). IMSI-Catchers also allow adversaries to intercept your conversations, text messages, and data. Police can use them to determine your location or to find out who is in a given geographic area at what time. Identity thieves can use freely [available tools](http://www.nsaplayset.org/) and even [build their own rogue GSM BTS](https://evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/) to monitor and manipulate communications from a parked car in your residential neighborhood - notably for stealing passwords or credit card data from people nearby who make purchases on their phones. The reason IMSI-Catchers are so commonly used is that it is very easy to get away with using them since they leave no traces. Our app aims to make it possible to detect the IMSI-Catchers so that using them becomes a risky proposition. It also aims to make users safer by alerting on possible interception and tracking. Fight for your privacy!
+The Security or local police regularly deploy IMSI-Catchers hidden in vehicles at protests to obtain a record of everyone who attended with a cell phone (leave your phones at home by all means if you really have to attend). IMSI-Catchers also allow adversaries to intercept your conversations, text messages, and data. Police can use them to determine your location or to find out who is in a given geographic area at what time. Identity thieves can use freely [available tools](http://www.nsaplayset.org/) and even [build their own rogue GSM BTS](https://evilsocket.net/2016/03/31/how-to-build-your-own-rogue-gsm-bts-for-fun-and-profit/) to monitor and manipulate communications from a parked car in your residential neighborhood - notably for stealing passwords or credit card data from people nearby who make purchases on their phones. The reason IMSI-Catchers are so commonly used is that it is very easy to get away with using them since they leave no traces. Our app aims to make it possible to detect the IMSI-Catchers so that using them becomes a risky proposition. It also aims to make users safer by alerting on possible interception and tracking. Fight for your privacy!
 
 ---
 
